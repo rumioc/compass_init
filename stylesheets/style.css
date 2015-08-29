@@ -619,7 +619,7 @@ http://sachagreif.com/sass-color-variables/
 /* ==========================================================================
    Buttons
    ========================================================================== */
-/* line 63, ../scss/_mixins-and-variables.scss */
+/* line 68, ../scss/_mixins-and-variables.scss */
 .button, .button:visited {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   border: 1px solid #7dc89c;
@@ -642,7 +642,7 @@ http://sachagreif.com/sass-color-variables/
   background: -webkit-linear-gradient(#abdbbf, #99d4b2);
   background: linear-gradient(#abdbbf, #99d4b2);
 }
-/* line 82, ../scss/_mixins-and-variables.scss */
+/* line 87, ../scss/_mixins-and-variables.scss */
 .button:hover, .button:focus, .button:visited:hover, .button:visited:focus {
   color: #fff;
   border: 1px solid #7dc89c;
@@ -654,7 +654,7 @@ http://sachagreif.com/sass-color-variables/
   background: -webkit-linear-gradient(#99d4b2, #87cca4);
   background: linear-gradient(#99d4b2, #87cca4);
 }
-/* line 90, ../scss/_mixins-and-variables.scss */
+/* line 95, ../scss/_mixins-and-variables.scss */
 .button:active, .button:visited:active {
   background: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjAuMCIgeDI9IjAuNSIgeTI9IjEuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzk5ZDRiMiIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2FiZGJiZiIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #99d4b2), color-stop(100%, #abdbbf));
@@ -663,7 +663,7 @@ http://sachagreif.com/sass-color-variables/
   background: linear-gradient(#99d4b2, #abdbbf);
 }
 
-/* line 95, ../scss/_mixins-and-variables.scss */
+/* line 100, ../scss/_mixins-and-variables.scss */
 .blue-button, .blue-button:visited {
   border-color: #a9daf1;
   text-shadow: 0 1px 1px #a9daf1;
@@ -674,7 +674,7 @@ http://sachagreif.com/sass-color-variables/
   background: linear-gradient(#d5edf8, #bfe4f4);
   box-shadow: inset 0 0 3px white;
 }
-/* line 101, ../scss/_mixins-and-variables.scss */
+/* line 106, ../scss/_mixins-and-variables.scss */
 .blue-button:hover, .blue-button:focus, .blue-button:visited:hover, .blue-button:visited:focus {
   border-color: #93d1ed;
   background: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjAuMCIgeDI9IjAuNSIgeTI9IjEuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M0ZTZmNSIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2E5ZGFmMSIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
@@ -683,7 +683,7 @@ http://sachagreif.com/sass-color-variables/
   background: -webkit-linear-gradient(#c4e6f5, #a9daf1);
   background: linear-gradient(#c4e6f5, #a9daf1);
 }
-/* line 105, ../scss/_mixins-and-variables.scss */
+/* line 110, ../scss/_mixins-and-variables.scss */
 .blue-button:active, .blue-button:visited:active {
   background: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjAuMCIgeDI9IjAuNSIgeTI9IjEuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2JmZTRmNCIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2Q1ZWRmOCIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #bfe4f4), color-stop(100%, #d5edf8));
@@ -698,7 +698,7 @@ http://sachagreif.com/sass-color-variables/
 /*
 * Hide only visually, but have it available for screenreaders: h5bp.com/v
 */
-/* line 116, ../scss/_mixins-and-variables.scss */
+/* line 121, ../scss/_mixins-and-variables.scss */
 .visuallyhidden {
   border: 0;
   clip: rect(0 0 0 0);
@@ -711,7 +711,7 @@ http://sachagreif.com/sass-color-variables/
 }
 
 /* For items to be revealed with JS */
-/* line 128, ../scss/_mixins-and-variables.scss */
+/* line 133, ../scss/_mixins-and-variables.scss */
 .hidden {
   display: none;
 }
@@ -805,78 +805,90 @@ a:link, a:visited:link {
    Headings
    ========================================================================== */
 /* line 76, ../scss/_typography.scss */
-h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
+h1, h2, h3, h4, h5, h6 {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   text-rendering: optimizelegibility;
-  font-weight: 500;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -.05em;
+  margin: 0em;
   /*
   if you're going to use webfonts, be sure to check your weights
   http://css-tricks.com/watch-your-font-weight/
   */
   /* removing text decoration from all headline links */
 }
-/* line 87, ../scss/_typography.scss */
-h1 a, .h1 a, h2 a, .h2 a, h3 a, .h3 a, h4 a, .h4 a, h5 a, .h5 a {
+/* line 90, ../scss/_typography.scss */
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   text-decoration: none;
 }
 
-/* line 92, ../scss/_typography.scss */
-h1, .h1 {
+/* line 95, ../scss/_typography.scss */
+h1 {
+  font-size: 3em;
+}
+
+/* line 100, ../scss/_typography.scss */
+h2 {
   font-size: 2.5em;
-  line-height: 1.333em;
 }
 
-/* line 97, ../scss/_typography.scss */
-h2, .h2 {
-  font-size: 1.45em;
-  line-height: 1.45em;
-  margin: 0.95em 0 0.375em 0;
+/* line 106, ../scss/_typography.scss */
+h3 {
+  font-size: 2em;
 }
 
-/* line 103, ../scss/_typography.scss */
-h3, .h3 {
-  font-size: 1.125em;
+/* line 110, ../scss/_typography.scss */
+h4 {
+  font-size: 1.5em;
 }
 
-/* line 107, ../scss/_typography.scss */
-h4, .h4 {
-  font-size: 1.1em;
-  font-weight: 700;
+/* line 115, ../scss/_typography.scss */
+h5 {
+  font-size: 1.25em;
 }
 
-/* line 112, ../scss/_typography.scss */
-h5, .h5 {
-  font-size: 0.846em;
-  line-height: 2.09em;
-  text-transform: uppercase;
-  letter-spacing: 2px;
+/* line 121, ../scss/_typography.scss */
+h6 {
+  font-size: 1em;
 }
 
 /* ==========================================================================
    Default element styling
    ========================================================================== */
-/* line 122, ../scss/_typography.scss */
+/* line 128, ../scss/_typography.scss */
 i {
   font-style: normal;
 }
 
-/* line 126, ../scss/_typography.scss */
+/* line 132, ../scss/_typography.scss */
 p {
-  margin-top: 0;
+  margin: 0.75em 0em;
+  line-height: 1.5;
 }
 
-/* line 131, ../scss/_typography.scss */
+/* line 137, ../scss/_typography.scss */
+ol {
+  list-style: upper-roman inside;
+}
+
+/* line 141, ../scss/_typography.scss */
+ul {
+  list-style: circle inside;
+}
+
+/* line 146, ../scss/_typography.scss */
 ol li {
   list-style-type: decimal;
 }
 
-/* line 136, ../scss/_typography.scss */
+/* line 151, ../scss/_typography.scss */
 dt {
   margin-bottom: 1em;
 }
 
-/* line 140, ../scss/_typography.scss */
+/* line 155, ../scss/_typography.scss */
 dd {
   margin-left: 0;
   font-size: 0.9em;
@@ -884,14 +896,14 @@ dd {
   margin-bottom: .25em;
 }
 
-/* line 147, ../scss/_typography.scss */
+/* line 162, ../scss/_typography.scss */
 img {
   margin: 0 0 1.5em 0;
   max-width: 100%;
   height: auto;
 }
 
-/* line 154, ../scss/_typography.scss */
+/* line 169, ../scss/_typography.scss */
 pre {
   background: #eee;
   border: 1px solid #cecece;
@@ -903,7 +915,7 @@ pre {
    ========================================================================== */
 /* Horizontal lists Thanks Twitter Bootstrap (http://twitter.github.com/bootstrap/base-css.html#typography)
 =================================*/
-/* line 177, ../scss/_typography.scss */
+/* line 192, ../scss/_typography.scss */
 .horizontal dt, .horizontal .primary {
   float: left;
   width: 28%;
@@ -911,12 +923,12 @@ pre {
   text-align: right;
 }
 
-/* line 184, ../scss/_typography.scss */
+/* line 199, ../scss/_typography.scss */
 .horizontal dd, .horizontal .secondary {
   margin-left: 30%;
   margin-bottom: 1.5em;
 }
-/* line 187, ../scss/_typography.scss */
+/* line 202, ../scss/_typography.scss */
 .horizontal dd:last-child, .horizontal .secondary:last-child {
   margin-bottom: 1em;
 }
@@ -947,8 +959,8 @@ html {
 /* line 14, ../scss/_base.scss */
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  line-height: 1.4;
-  color: #636462;
+  color: #000;
+  padding: 1.5em;
 }
 
 /* ==========================================================================
@@ -1125,8 +1137,8 @@ body {
    Page Sections
    ========================================================================== */
 /* line 8, ../scss/_theme.scss */
-h1 {
-  color: orange;
+.wrapper {
+  padding: 0em 1.5em;
 }
 
 @media only screen and (min-width: 768px) {
